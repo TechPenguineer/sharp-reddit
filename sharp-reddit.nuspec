@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0</version>
+    <title>Sharp-reddit</title>
+    <authors>Tech Penguineer</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">mit</license>
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <description>A c# library for making reddit application/bots</description>
+    <releaseNotes>Inital Name keep</releaseNotes>
+    <copyright>2021 Tech Penguineer</copyright>
+    <tags>reddit api</tags>
+  </metadata>
+</package>
