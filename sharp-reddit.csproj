@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>SharpReddit</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A c# library for making reddit application/bots
+
+</Description>
+    <RepositoryUrl>https://github.com/TechPenguineer/sharp-reddit</RepositoryUrl>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageTags>reddit api</PackageTags>
   </PropertyGroup>
   <ItemGroup>
     <Content Include="nuget.config" />
