@@ -11,7 +11,4 @@
     <NeutralLanguage>en</NeutralLanguage>
     <PackageTags>reddit api</PackageTags>
   </PropertyGroup>
-  <ItemGroup>
-    <Content Include="nuget.config" />
-  </ItemGroup>
 </Project>
